@@ -1,6 +1,7 @@
 	
 body{
 	font-family: Arial;
+	
 }
 
 img{
@@ -13,7 +14,12 @@ img{
 	padding: 10px;
 }
 
-h1;h2{
+h1{
+	color: darkgreen;
+	font-variant: small-caps;
+}
+
+h2{
 	color: darkgreen;
 	font-variant: small-caps;
 }
