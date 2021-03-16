@@ -1,38 +1,6 @@
-	
-body{
-	font-family: Arial;
-	
-}
-
-img{
-	border-radius: 50%;
-	border: 2px solid #54C03F;
-}
-
-#main-header{
-	background-color: #D1FAD2;
-	padding: 10px;
-}
-
-h1{
-	color: darkgreen;
-	font-variant: small-caps;
-}
-
-h2{
-	color: darkgreen;
-	font-variant: small-caps;
-}
-
-a{
-	color: green;
-	text-decoration: none;
-	font-weight: bold;
-}
-
-input{
-	border: 1px solid grey;
-	border-radius: 5px;
-	padding: 3px 5px;
-	margin-bottom: 10px;
+.cover {
+ background-image: url("bg.jpg");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
 }
